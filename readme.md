@@ -10,6 +10,7 @@ If you would like to add another dictionary for e.g. a *new* language `zz` and c
     $ git add zz_ZZ.aff
     $ git add zz_ZZ.dic
     $ git commit -m "New dictionary: zz"
+    $ git push --set-upstream origin zz
     $ git checkout master
     $ git merge zz
 
@@ -19,6 +20,7 @@ Otherwise, if the language branch `zz` already exists, then:
     $ git add zz_ZZ.aff
     $ git add zz_ZZ.dic
     $ git commit -m "New dictionary: zz"
+    $ git push --set-upstream origin zz
     $ git checkout master
     $ git merge zz
 
