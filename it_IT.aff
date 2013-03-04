@@ -32,21 +32,21 @@ LANG it_IT
 HOME http://linguistico.sourceforge.net/wiki
 VERSION 2.4 (01/09/2007)
 SET ISO8859-15
-TRY aioertnsclmdpgubzfvhàq'ACMSkBGPLxEyRTVòIODNwFéùèìjUZKHWJYQXÙÀÒÈÌÉ
-#Nota: non presenti nel dizionario: ÙÀÒÈÌÉ, vanno aggiunte alla TRY rigenerata
+TRY aioertnsclmdpgubzfvhÃ q'ACMSkBGPLxEyRTVÃ²IODNwFÃ©Ã¹Ã¨Ã¬jUZKHWJYQXÃ™Ã€Ã’ÃˆÃŒÃ‰
+#Nota: non presenti nel dizionario: Ã™Ã€Ã’ÃˆÃŒÃ‰, vanno aggiunte alla TRY rigenerata
 
 MAP 5
-MAP aàAÀ
-MAP eéèEÉÈ
-MAP iìIÌ
-MAP oòOÒ
-MAP uùUÙ
+MAP aÃ AÃ€
+MAP eÃ©Ã¨EÃ‰Ãˆ
+MAP iÃ¬IÃŒ
+MAP oÃ²OÃ’
+MAP uÃ¹UÃ™
 
 REP 4
-REP ó ò
-REP á à
-REP ú ù
-REP í ì
+REP Ã³ Ã²
+REP Ã¡ Ã 
+REP Ãº Ã¹
+REP Ã­ Ã¬
 
 SFX A Y 81
 SFX A are o are               
@@ -67,22 +67,22 @@ SFX A re vate are
 SFX A re vano are             
 SFX A re i are                
 SFX A re sti are              
-SFX A are ò are               
+SFX A are Ã² are               
 SFX A re mmo are              
 SFX A re ste are              
 SFX A e ono are               
-SFX A are erò [^cgi]are       
-SFX A are herò [cg]are        
-SFX A are erò [^cg]iare       
-SFX A iare erò [cg]iare       
+SFX A are erÃ² [^cgi]are       
+SFX A are herÃ² [cg]are        
+SFX A are erÃ² [^cg]iare       
+SFX A iare erÃ² [cg]iare       
 SFX A are erai [^cgi]are      
 SFX A are herai [cg]are       
 SFX A are erai [^cg]iare      
 SFX A iare erai [cg]iare      
-SFX A are erà [^cgi]are       
-SFX A are herà [cg]are        
-SFX A are erà [^cg]iare       
-SFX A iare erà [cg]iare       
+SFX A are erÃ  [^cgi]are       
+SFX A are herÃ  [cg]are        
+SFX A are erÃ  [^cg]iare       
+SFX A iare erÃ  [cg]iare       
 SFX A are eremo [^cgi]are     
 SFX A are heremo [cg]are      
 SFX A are eremo [^cg]iare     
@@ -130,15 +130,15 @@ SFX A are erebbero [^cg]iare
 SFX A iare erebbero [cg]iare  
 SFX A re nte are              
 SFX A re nti are              
-# v.: cg.p. 2° pers. pl. (-iate solo iare)
+# v.: cg.p. 2Â° pers. pl. (-iate solo iare)
 # v.: part. pass. (-te)             
-# v.: cg.p. 1-2-3° pers. sn. (-i)   
-# v.: cg.p. 1° pers. pl. (-iamo)    
-# v.: cg.i. 2° pers. pl. (-aste)    
-# v.: impr. 2° pers. sn. (-a)       
-# v.: impr. 3° pers. sn. (-i/hi)    
-# v.: impr. 1° pers. pl. (iamo/hiamo)# pres. 1° pers. pl.
-# v.: impr. 3° pers. pl. (-ino/hino)
+# v.: cg.p. 1-2-3Â° pers. sn. (-i)   
+# v.: cg.p. 1Â° pers. pl. (-iamo)    
+# v.: cg.i. 2Â° pers. pl. (-aste)    
+# v.: impr. 2Â° pers. sn. (-a)       
+# v.: impr. 3Â° pers. sn. (-i/hi)    
+# v.: impr. 1Â° pers. pl. (iamo/hiamo)# pres. 1Â° pers. pl.
+# v.: impr. 3Â° pers. pl. (-ino/hino)
 
 SFX B Y 160
 SFX B ere o ere               
@@ -158,15 +158,15 @@ SFX B re vano ere
 SFX B re tti ere              
 SFX B re i ere                
 SFX B re sti ere              
-SFX B ere é ere               
+SFX B ere Ã© ere               
 SFX B re tte ere              
 SFX B re mmo ere              
 SFX B re ste ere              
 SFX B re ttero ere            
 SFX B e ono ere               
-SFX B e ò ere                 
+SFX B e Ã² ere                 
 SFX B e ai ere                
-SFX B e à ere                 
+SFX B e Ã  ere                 
 SFX B 0 mo ere                
 SFX B 0 te ere                
 SFX B e anno ere              
@@ -301,13 +301,13 @@ SFX B re ntesi ere
 SFX B re ntisi ere            
 SFX B re vasi ere
 SFX B re si ere
-# v.: pres. 1° pers. pl.      
-# v.: p.r. 2° pers. pl.       
-# v.: pres. 2° pers. sn.      
-# v.: cg.p. 1-2-3° pers. sn.  
-# v.: pres. 1° pers. pl.      
-# v.: pres. 2° pers. pl.      
-# v.: cg.p. 3° pers. pl.      
+# v.: pres. 1Â° pers. pl.      
+# v.: p.r. 2Â° pers. pl.       
+# v.: pres. 2Â° pers. sn.      
+# v.: cg.p. 1-2-3Â° pers. sn.  
+# v.: pres. 1Â° pers. pl.      
+# v.: pres. 2Â° pers. pl.      
+# v.: cg.p. 3Â° pers. pl.      
 
 SFX C Y 92
 SFX C ire o ire
@@ -367,13 +367,13 @@ SFX C re vate ire
 SFX C re vano ire
 SFX C re i ire
 SFX C re sti ire
-SFX C ire ì ire
+SFX C ire Ã¬ ire
 SFX C re mmo ire
 SFX C re ste ire
 SFX C e ono ire
-SFX C e ò ire
+SFX C e Ã² ire
 SFX C e ai ire
-SFX C e à ire
+SFX C e Ã  ire
 SFX C 0 mo ire
 SFX C 0 te ire
 SFX C e anno ire
@@ -1074,7 +1074,7 @@ SFX P re cevi are
 SFX P re cevo are
 SFX P re i are
 SFX P re nno are
-SFX P e à are
+SFX P e Ã  are
 SFX P e ai are
 SFX P e anno are
 SFX P 0 bbe are
@@ -1085,7 +1085,7 @@ SFX P 0 mo are
 SFX P 0 ste are
 SFX P 0 sti are
 SFX P 0 te are
-SFX P e ò are
+SFX P e Ã² are
 SFX P re te are
 SFX P re tto are
 SFX P are ece are
@@ -1516,10 +1516,10 @@ SFX V rre ciamo urre
 SFX V rre ciate urre
 SFX V rre co urre
 SFX V rre cono urre
-SFX V e à urre
+SFX V e Ã  urre
 SFX V e ai urre
 SFX V e anno urre
-SFX V e ò urre
+SFX V e Ã² urre
 SFX V 0 bbe urre
 SFX V 0 bbero urre
 SFX V 0 i urre
@@ -1555,10 +1555,10 @@ SFX V rre ngono orre
 SFX V rre ni orre
 SFX V rre niamo orre
 SFX V rre niate orre
-SFX V e à orre
+SFX V e Ã  orre
 SFX V e ai orre
 SFX V e anno orre
-SFX V e ò orre
+SFX V e Ã² orre
 SFX V 0 bbe orre
 SFX V 0 bbero orre
 SFX V 0 i orre
@@ -1594,10 +1594,10 @@ SFX V rre ggono arre
 SFX V rre i arre
 SFX V rre iamo arre
 SFX V rre iate arre
-SFX V e à arre
+SFX V e Ã  arre
 SFX V e ai arre
 SFX V e anno arre
-SFX V e ò arre
+SFX V e Ã² arre
 SFX V 0 bbe arre
 SFX V 0 bbero arre
 SFX V 0 i arre
@@ -1629,9 +1629,9 @@ SFX Z ire ne enire
 SFX Z re mmo enire            
 SFX Z re ste enire            
 SFX Z ire nero enire          
-SFX Z nire rrò enire          
+SFX Z nire rrÃ² enire          
 SFX Z nire rrai enire         
-SFX Z nire rrà enire          
+SFX Z nire rrÃ  enire          
 SFX Z nire rremo enire        
 SFX Z nire rrete enire        
 SFX Z nire rranno enire       
@@ -1723,124 +1723,124 @@ SFX Z re temele enire
 SFX Z re ntesi enire          
 SFX Z re ntisi enire          
 SFX Z re vasi enire
-# v.: pres. 1° pers. pl.      
-# v.: p.r. 2° pers. pl.       
-# v.: pres. 2° pers. sn.      
-# v.: cg.p. 1-2-3° pers. sn.  
-# v.: pres. 1° pers. pl.      
-# v.: pres. 2° pers. pl.      
-# v.: cg.p. 3° pers. pl.      
+# v.: pres. 1Â° pers. pl.      
+# v.: p.r. 2Â° pers. pl.       
+# v.: pres. 2Â° pers. sn.      
+# v.: cg.p. 1-2-3Â° pers. sn.  
+# v.: pres. 1Â° pers. pl.      
+# v.: pres. 2Â° pers. pl.      
+# v.: cg.p. 3Â° pers. pl.      
 
-SFX À Y 39
-SFX À re o ucire              
-SFX À re 0 ucire              
-SFX À ire e ucire             
-SFX À re amo ucire            
-SFX À re te ucire             
-SFX À re ono ucire            
-SFX À re vo ucire             
-SFX À re vi ucire             
-SFX À re va ucire             
-SFX À re vamo ucire           
-SFX À re vate ucire           
-SFX À re vano ucire           
-SFX À re i ucire              
-SFX À re sti ucire            
-SFX À ire ì ucire             
-SFX À re mmo ucire            
-SFX À re ste ucire            
-SFX À e ono ucire             
-SFX À e ò ucire               
-SFX À e ai ucire              
-SFX À e à ucire               
-SFX À 0 mo ucire              
-SFX À 0 te ucire              
-SFX À e anno ucire            
-SFX À re a ucire              
-SFX À re ate ucire            
-SFX À re ano ucire            
-SFX À re ssi ucire            
-SFX À re sse ucire            
-SFX À re ssimo ucire          
-SFX À re ssero ucire          
-SFX À 0 i ucire               
-SFX À 0 sti ucire             
-SFX À 0 bbe ucire             
-SFX À 0 mmo ucire             
-SFX À 0 ste ucire             
-SFX À 0 bbero ucire           
-SFX À ire ente ucire          
-SFX À ire enti ucire          
-# v.: pres. 1° pers. pl.      
-# v.: p.r. 2° pers. pl.       
-# v.: pres. 2° pers. sn.      
-# v.: cg.p. 1-2-3° pers. sn.  
-# v.: pres. 1° pers. pl.      
-# v.: pres. 2° pers. pl.      
-# v.: cg.p. 3° pers. pl.      
+SFX Ã€ Y 39
+SFX Ã€ re o ucire              
+SFX Ã€ re 0 ucire              
+SFX Ã€ ire e ucire             
+SFX Ã€ re amo ucire            
+SFX Ã€ re te ucire             
+SFX Ã€ re ono ucire            
+SFX Ã€ re vo ucire             
+SFX Ã€ re vi ucire             
+SFX Ã€ re va ucire             
+SFX Ã€ re vamo ucire           
+SFX Ã€ re vate ucire           
+SFX Ã€ re vano ucire           
+SFX Ã€ re i ucire              
+SFX Ã€ re sti ucire            
+SFX Ã€ ire Ã¬ ucire             
+SFX Ã€ re mmo ucire            
+SFX Ã€ re ste ucire            
+SFX Ã€ e ono ucire             
+SFX Ã€ e Ã² ucire               
+SFX Ã€ e ai ucire              
+SFX Ã€ e Ã  ucire               
+SFX Ã€ 0 mo ucire              
+SFX Ã€ 0 te ucire              
+SFX Ã€ e anno ucire            
+SFX Ã€ re a ucire              
+SFX Ã€ re ate ucire            
+SFX Ã€ re ano ucire            
+SFX Ã€ re ssi ucire            
+SFX Ã€ re sse ucire            
+SFX Ã€ re ssimo ucire          
+SFX Ã€ re ssero ucire          
+SFX Ã€ 0 i ucire               
+SFX Ã€ 0 sti ucire             
+SFX Ã€ 0 bbe ucire             
+SFX Ã€ 0 mmo ucire             
+SFX Ã€ 0 ste ucire             
+SFX Ã€ 0 bbero ucire           
+SFX Ã€ ire ente ucire          
+SFX Ã€ ire enti ucire          
+# v.: pres. 1Â° pers. pl.      
+# v.: p.r. 2Â° pers. pl.       
+# v.: pres. 2Â° pers. sn.      
+# v.: cg.p. 1-2-3Â° pers. sn.  
+# v.: pres. 1Â° pers. pl.      
+# v.: pres. 2Â° pers. pl.      
+# v.: cg.p. 3Â° pers. pl.      
 
-SFX È Y 54
-SFX È edere iedo sedere       
-SFX È edere iedi sedere       
-SFX È edere iede sedere       
-SFX È ere iamo sedere         
-SFX È re te sedere            
-SFX È edere iedono sedere     
-SFX È re vo sedere            
-SFX È re vi sedere            
-SFX È re va sedere            
-SFX È re vamo sedere          
-SFX È re vate sedere          
-SFX È re vano sedere          
-SFX È re i sedere             
-SFX È re tti sedere           
-SFX È re sti sedere           
-SFX È ere é sedere            
-SFX È re tte sedere           
-SFX È re mmo sedere           
-SFX È re ste sedere           
-SFX È e ono sedere            
-SFX È re ttero sedere         
-SFX È e ò sedere              
-SFX È edere iederò sedere     
-SFX È e ai sedere             
-SFX È edere iederai sedere    
-SFX È e à sedere              
-SFX È edere iederà sedere     
-SFX È 0 mo sedere             
-SFX È edere iederemo sedere   
-SFX È 0 te sedere             
-SFX È edere iederete sedere   
-SFX È e anno sedere           
-SFX È edere iederanno sedere  
-SFX È edere ieda sedere       
-SFX È ere iate sedere         
-SFX È edere iedano sedere     
-SFX È re ssi sedere           
-SFX È re sse sedere           
-SFX È re ssimo sedere         
-SFX È re ssero sedere         
-SFX È 0 i sedere              
-SFX È edere iederei sedere    
-SFX È 0 sti sedere            
-SFX È edere iederesti sedere  
-SFX È 0 bbe sedere            
-SFX È edere iederebbe sedere  
-SFX È 0 mmo sedere            
-SFX È edere iederemmo sedere  
-SFX È 0 ste sedere            
-SFX È edere iedereste sedere  
-SFX È 0 bbero sedere          
-SFX È edere iederebbero sedere
-SFX È re nte sedere           
-SFX È re nti sedere           
-# v.: pres. 1° pers. pl.      
-# v.: p.r. 2° pers. pl.       
-# v.: pres. 2° pers. sn.      
-# v.: cg.p. 1-2-3° pers. sn.  
-# v.: pres. 1° pers. pl.      
-# v.: pres. 2° pers. pl.      
-# v.: cg.p. 3° pers. pl.      
+SFX Ãˆ Y 54
+SFX Ãˆ edere iedo sedere       
+SFX Ãˆ edere iedi sedere       
+SFX Ãˆ edere iede sedere       
+SFX Ãˆ ere iamo sedere         
+SFX Ãˆ re te sedere            
+SFX Ãˆ edere iedono sedere     
+SFX Ãˆ re vo sedere            
+SFX Ãˆ re vi sedere            
+SFX Ãˆ re va sedere            
+SFX Ãˆ re vamo sedere          
+SFX Ãˆ re vate sedere          
+SFX Ãˆ re vano sedere          
+SFX Ãˆ re i sedere             
+SFX Ãˆ re tti sedere           
+SFX Ãˆ re sti sedere           
+SFX Ãˆ ere Ã© sedere            
+SFX Ãˆ re tte sedere           
+SFX Ãˆ re mmo sedere           
+SFX Ãˆ re ste sedere           
+SFX Ãˆ e ono sedere            
+SFX Ãˆ re ttero sedere         
+SFX Ãˆ e Ã² sedere              
+SFX Ãˆ edere iederÃ² sedere     
+SFX Ãˆ e ai sedere             
+SFX Ãˆ edere iederai sedere    
+SFX Ãˆ e Ã  sedere              
+SFX Ãˆ edere iederÃ  sedere     
+SFX Ãˆ 0 mo sedere             
+SFX Ãˆ edere iederemo sedere   
+SFX Ãˆ 0 te sedere             
+SFX Ãˆ edere iederete sedere   
+SFX Ãˆ e anno sedere           
+SFX Ãˆ edere iederanno sedere  
+SFX Ãˆ edere ieda sedere       
+SFX Ãˆ ere iate sedere         
+SFX Ãˆ edere iedano sedere     
+SFX Ãˆ re ssi sedere           
+SFX Ãˆ re sse sedere           
+SFX Ãˆ re ssimo sedere         
+SFX Ãˆ re ssero sedere         
+SFX Ãˆ 0 i sedere              
+SFX Ãˆ edere iederei sedere    
+SFX Ãˆ 0 sti sedere            
+SFX Ãˆ edere iederesti sedere  
+SFX Ãˆ 0 bbe sedere            
+SFX Ãˆ edere iederebbe sedere  
+SFX Ãˆ 0 mmo sedere            
+SFX Ãˆ edere iederemmo sedere  
+SFX Ãˆ 0 ste sedere            
+SFX Ãˆ edere iedereste sedere  
+SFX Ãˆ 0 bbero sedere          
+SFX Ãˆ edere iederebbero sedere
+SFX Ãˆ re nte sedere           
+SFX Ãˆ re nti sedere           
+# v.: pres. 1Â° pers. pl.      
+# v.: p.r. 2Â° pers. pl.       
+# v.: pres. 2Â° pers. sn.      
+# v.: cg.p. 1-2-3Â° pers. sn.  
+# v.: pres. 1Â° pers. pl.      
+# v.: pres. 2Â° pers. pl.      
+# v.: cg.p. 3Â° pers. pl.      
 
 SFX a Y 31
 SFX a o a o
@@ -2288,13 +2288,13 @@ SFX t re vate ire
 SFX t re vano ire
 SFX t re i ire
 SFX t re sti ire
-SFX t ire ì ire
+SFX t ire Ã¬ ire
 SFX t re mmo ire
 SFX t re ste ire
 SFX t e ono ire
-SFX t e ò ire
+SFX t e Ã² ire
 SFX t e ai ire
-SFX t e à ire
+SFX t e Ã  ire
 SFX t 0 mo ire
 SFX t 0 te ire
 SFX t e anno ire
@@ -2465,31 +2465,31 @@ SFX z re vate are
 SFX z re vano are
 SFX z re i are
 SFX z re sti are
-SFX z are ò are
+SFX z are Ã² are
 SFX z re mmo are
 SFX z re ste are
 SFX z e ono are
-SFX z are erò [^cgi]are
+SFX z are erÃ² [^cgi]are
 SFX z are erai [^cgi]are
-SFX z are erà [^cgi]are
+SFX z are erÃ  [^cgi]are
 SFX z are eremo [^cgi]are
 SFX z are erete [^cgi]are
 SFX z are eranno [^cgi]are
-SFX z are herò [cg]are
+SFX z are herÃ² [cg]are
 SFX z are herai [cg]are
-SFX z are herà [cg]are
+SFX z are herÃ  [cg]are
 SFX z are heremo [cg]are
 SFX z are herete [cg]are
 SFX z are heranno [cg]are
-SFX z are erò [^cg]iare
+SFX z are erÃ² [^cg]iare
 SFX z are erai [^cg]iare
-SFX z are erà [^cg]iare
+SFX z are erÃ  [^cg]iare
 SFX z are eremo [^cg]iare
 SFX z are erete [^cg]iare
 SFX z are eranno [^cg]iare
-SFX z iare erò [cg]iare
+SFX z iare erÃ² [cg]iare
 SFX z iare erai [cg]iare
-SFX z iare erà [cg]iare
+SFX z iare erÃ  [cg]iare
 SFX z iare eremo [cg]iare
 SFX z iare erete [cg]iare
 SFX z iare eranno [cg]iare
@@ -2568,7 +2568,7 @@ SFX | a un ta
 SFX | 0 un [^t][ai]
 SFX | 0 un [eo]
 SFX | 0 due .
-SFX | 0 tré .
+SFX | 0 trÃ© .
 SFX | 0 quattro .
 SFX | 0 cinque .
 SFX | 0 sei .
@@ -2595,7 +2595,7 @@ SFX ! 0 venti .
 SFX ! 0 ventuno .
 SFX ! 0 ventun .
 SFX ! 0 ventidue .
-SFX ! 0 ventitré .
+SFX ! 0 ventitrÃ© .
 SFX ! 0 ventiquattro .
 SFX ! 0 venticinque .
 SFX ! 0 ventisei .
@@ -2606,7 +2606,7 @@ SFX ! 0 trenta .
 SFX ! 0 trentuno .
 SFX ! 0 trentun .
 SFX ! 0 trentadue .
-SFX ! 0 trentatré .
+SFX ! 0 trentatrÃ© .
 SFX ! 0 trentaquattro .
 SFX ! 0 trentacinque .
 SFX ! 0 trentasei .
@@ -2617,7 +2617,7 @@ SFX ! 0 quaranta .
 SFX ! 0 quarantuno .
 SFX ! 0 quarantun .
 SFX ! 0 quarantadue .
-SFX ! 0 quarantatré .
+SFX ! 0 quarantatrÃ© .
 SFX ! 0 quarantaquattro .
 SFX ! 0 quarantacinque .
 SFX ! 0 quarantasei .
@@ -2628,7 +2628,7 @@ SFX ! 0 cinquanta .
 SFX ! 0 cinquantuno .
 SFX ! 0 cinquantun .
 SFX ! 0 cinquantadue .
-SFX ! 0 cinquantatré .
+SFX ! 0 cinquantatrÃ© .
 SFX ! 0 cinquantaquattro .
 SFX ! 0 cinquantacinque .
 SFX ! 0 cinquantasei .
@@ -2639,7 +2639,7 @@ SFX ! 0 sessanta .
 SFX ! 0 sessantuno .
 SFX ! 0 sessantun .
 SFX ! 0 sessantadue .
-SFX ! 0 sessantatré .
+SFX ! 0 sessantatrÃ© .
 SFX ! 0 sessantaquattro .
 SFX ! 0 sessantacinque .
 SFX ! 0 sessantasei .
@@ -2650,7 +2650,7 @@ SFX ! 0 settanta .
 SFX ! 0 settantuno .
 SFX ! 0 settantun .
 SFX ! 0 settantadue .
-SFX ! 0 settantatré .
+SFX ! 0 settantatrÃ© .
 SFX ! 0 settantaquattro .
 SFX ! 0 settantacinque .
 SFX ! 0 settantasei .
@@ -2661,7 +2661,7 @@ SFX ! 0 ottanta .
 SFX ! 0 ottantuno .
 SFX ! 0 ottantun .
 SFX ! 0 ottantadue .
-SFX ! 0 ottantatré .
+SFX ! 0 ottantatrÃ© .
 SFX ! 0 ottantaquattro .
 SFX ! 0 ottantacinque .
 SFX ! 0 ottantasei .
@@ -2672,7 +2672,7 @@ SFX ! 0 ttanta o
 SFX ! 0 ttantuno o
 SFX ! 0 ttantun o
 SFX ! 0 ttantadue o
-SFX ! 0 ttantatré o
+SFX ! 0 ttantatrÃ© o
 SFX ! 0 ttantaquattro o
 SFX ! 0 ttantacinque o
 SFX ! 0 ttantasei o
@@ -2683,7 +2683,7 @@ SFX ! 0 novanta .
 SFX ! 0 novantuno .
 SFX ! 0 novantun .
 SFX ! 0 novantadue .
-SFX ! 0 novantatré .
+SFX ! 0 novantatrÃ© .
 SFX ! 0 novantaquattro .
 SFX ! 0 novantacinque .
 SFX ! 0 novantasei .
@@ -2792,17 +2792,17 @@ PFX " 0 novantasettemila .
 PFX " 0 novantottomila .
 PFX " 0 novantanovemila .
 
-SFX £ Y 10
-SFX £ 0 i [ivxlcdm]
-SFX £ 0 ii [ivxlcdm]
-SFX £ 0 iii [vxlcdm]
-SFX £ 0 iv [xlcdm]
-SFX £ 0 v [ixlcdm]
-SFX £ 0 vi [xlcdm]
-SFX £ 0 vii [xlcdm]
-SFX £ 0 viii [xlcdm]
-SFX £ 0 ix [xlcdm]
-SFX £ 0 x i
+SFX Â£ Y 10
+SFX Â£ 0 i [ivxlcdm]
+SFX Â£ 0 ii [ivxlcdm]
+SFX Â£ 0 iii [vxlcdm]
+SFX Â£ 0 iv [xlcdm]
+SFX Â£ 0 v [ixlcdm]
+SFX Â£ 0 vi [xlcdm]
+SFX Â£ 0 vii [xlcdm]
+SFX Â£ 0 viii [xlcdm]
+SFX Â£ 0 ix [xlcdm]
+SFX Â£ 0 x i
 
 PFX $ Y 62
 PFX $ 0 x [cl]
